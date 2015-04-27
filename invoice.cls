@@ -26,7 +26,7 @@
 
 \LoadClass[12pt]{article}
 
-\usepackage[letterpaper,hmargin=0.79in,vmargin=0.79in]{geometry}
+\usepackage[a4paper,hmargin=0.79in,vmargin=0.79in]{geometry}
 \usepackage[parfill]{parskip} % Do not indent paragraphs
 \usepackage{fp} % Fixed-point arithmetic
 \usepackage{calc} % Counters for totaling hours and cost
